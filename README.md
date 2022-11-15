@@ -3,7 +3,7 @@
 ## Description
 A fully deployed web dev portfolio built with React.
 ## Preview Image
-![Application Preview Image](../my-portfolio/src/assets/demo/portfolio-demo.gif)
+![Application Preview Image](./src/assets/demo/portfolio-demo.gif)
 ## GitHub Repo
 
 ## Deployed Portfolio
