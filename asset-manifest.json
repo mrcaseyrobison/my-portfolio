@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.b90b8f74.css",
+    "main.js": "/my-portfolio/static/js/main.3dfb1e4a.js",
+    "static/js/787.128fc6e9.chunk.js": "/my-portfolio/static/js/787.128fc6e9.chunk.js",
+    "static/media/paris.jpeg": "/my-portfolio/static/media/paris.d9ec3c5f2ccd3a9479e6.jpeg",
+    "static/media/headshot.jpeg": "/my-portfolio/static/media/headshot.a55d7c283211ce8d0571.jpeg",
+    "static/media/cardsforjokes.jpg": "/my-portfolio/static/media/cardsforjokes.b7a00a5f7b34185bcee2.jpg",
+    "static/media/whisky_taste.jpg": "/my-portfolio/static/media/whisky_taste.0c3ae704608e7f4c561f.jpg",
+    "static/media/seattle_center.jpg": "/my-portfolio/static/media/seattle_center.98ae3d667ff9986e84d4.jpg",
+    "static/media/weather-dash.jpg": "/my-portfolio/static/media/weather-dash.e8617b2f826bed25cd78.jpg",
+    "static/media/note-taker.jpg": "/my-portfolio/static/media/note-taker.3e1d9eb2ab49272d7301.jpg",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.3f2f73e70ebb37a354db.pdf",
+    "static/media/day-planner.jpg": "/my-portfolio/static/media/day-planner.512686167eb383f4b1dd.jpg",
+    "index.html": "/my-portfolio/index.html",
+    "main.b90b8f74.css.map": "/my-portfolio/static/css/main.b90b8f74.css.map",
+    "main.3dfb1e4a.js.map": "/my-portfolio/static/js/main.3dfb1e4a.js.map",
+    "787.128fc6e9.chunk.js.map": "/my-portfolio/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b90b8f74.css",
+    "static/js/main.3dfb1e4a.js"
+  ]
+}
