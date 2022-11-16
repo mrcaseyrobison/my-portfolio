@@ -13,7 +13,7 @@ const styles = {
     }
 };
 
-export default function Project({ id, title, description, image, repo, live  }) {
+export default function Project({ id, title, description, image, repo, live }) {
     return (
         <Grid item xs={10} md={6} key={id} className="project">
             <Card style={styles.box}>
@@ -39,14 +39,13 @@ export default function Project({ id, title, description, image, repo, live  }) 
             <Typography variant="body2">{description}</Typography>
 
             <Grid id="href" container spacing={4} justifyContent="center">
-              <Grid item>
-                <a href={repo} target="_blank" rel="noreferrer">GitHub Repo</a>
+            <Grid item>
+                <a href={repo} target="_blank" rel="noreferrer">GitHub</a>
               </Grid>
               <Grid item>
-                <a href={live} target="_blank" rel="noreferrer">Deployed Application</a>
+                <a href={live} target="_blank" rel="noreferrer">Live Application</a>
               </Grid>
             </Grid>
-
           </Box>
         </Box>
       </Card>
